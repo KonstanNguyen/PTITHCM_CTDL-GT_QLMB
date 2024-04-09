@@ -1,6 +1,5 @@
 # **PTITHCM_CTDL-GT_QLMB**
-Một sản phẩm đến từ: Nguyễn Tấn Nguyên, Nguyễn Phúc Minh Khang, Nguyễn Phi Long khóa D21 của PTITHCM.
-Đây là đồ án năm 2 của môn Cấu trúc dữ liệu & giải thuật do thầy Lưu Nguyễn Kì Thư phụ trách.
+Đây là đồ án năm 2 của môn Cấu trúc dữ liệu & giải thuật khóa D21 của PTITHCM do thầy Lưu Nguyễn Kì Thư phụ trách.\
 ## Thành viên: 
   - [Nguyễn Tấn Nguyên](https://github.com/NNNNNguyennnnn)
   - [Nguyễn Phi Long](https://github.com/NguyenPhiLongIT)
