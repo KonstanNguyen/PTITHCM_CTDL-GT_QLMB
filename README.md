@@ -34,11 +34,11 @@ Nội dung trên là thông tin sơ bộ của đề tài nhóm mình nhận đ�
 ## Hướng dẫn chạy dự án:
 1. Kiểm tra makefile tool:
 Đầu tiên bạn cần phải kiểm tra xem bạn đang sử dụng tool makefile nào, ở đây mình cài môi trường bằng [MSYS2](https://www.msys2.org/), nên mình sẽ dùng lun tool make file của nó, nếu bạn chưa có thì vào trang [MSYS2](https://www.msys2.org/) xem hướng dẫn cài như cài _gcc_, nhưng ở đây mình sẽ thay đổi _gcc_ thành _make_ như sau:
-Thời điểm mình tải thì nó là dòng lệnh 
+Thời điểm mình tải thì nó là:
 ```bash
 pacman -S mingw-w64-x86_64-make
 ```
-Có thể hiện tại nó sẽ khác 1 tí thì nó chỉ khác folder, bạn có thể vào check để rõ hơn
+Có thể hiện tại nó sẽ khác 1 tí thì nó chỉ khác folder, bạn có thể vào check để rõ hơn.
 Sau đó bạn có thể check lại bằng cách mở ***Terminal*** hoặc là ***CMD***
 ```bash
 mingw32-make --version
